@@ -18,6 +18,27 @@ oracle-urls.txt
 *pre-authenticated*
 config-with-urls.json
 
+# Analytics and monitoring logs
+analytics_log.txt
+analytics_*.txt
+analytics_*.csv
+analytics_*.json
+repo_stats_*.log
+monitoring_*.log
+
+# Agent-Zero repository (cloned for integration development)
+agent-zero/
+
+# Legacy memory system experiments (removed)
+manual_sync.py
+memory_watcher.py
+memory_wrapper.py
+oracle_sync.py
+supabase_sync.py
+sync_to_drive.py
+memory-watcher.service
+oracle_commands.sh
+
 # Editor files
 .vscode/settings.json
 .idea/
