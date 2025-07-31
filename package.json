@@ -1,0 +1,36 @@
+{
+  "name": "oracle-mcp-memory",
+  "version": "1.0.0",
+  "description": "Enterprise-grade MCP memory server with Oracle Cloud Storage integration",
+  "main": "oracle-memory-server.js",
+  "scripts": {
+    "start": "node oracle-memory-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "memory",
+    "oracle",
+    "cloud",
+    "ai",
+    "vscode",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/oracle-mcp-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/oracle-mcp-memory/issues"
+  },
+  "homepage": "https://github.com/yourusername/oracle-mcp-memory#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0"
+  }
+}
