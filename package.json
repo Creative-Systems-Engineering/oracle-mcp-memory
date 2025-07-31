@@ -16,16 +16,16 @@
     "vscode",
     "model-context-protocol"
   ],
-  "author": "",
+  "author": "eshanegross <eshanegross@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/oracle-mcp-memory.git"
+    "url": "https://github.com/eshanegross/oracle-mcp-memory.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/oracle-mcp-memory/issues"
+    "url": "https://github.com/eshanegross/oracle-mcp-memory/issues"
   },
-  "homepage": "https://github.com/yourusername/oracle-mcp-memory#readme",
+  "homepage": "https://github.com/eshanegross/oracle-mcp-memory#readme",
   "engines": {
     "node": ">=18.0.0"
   },
