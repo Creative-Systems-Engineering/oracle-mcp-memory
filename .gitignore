@@ -11,6 +11,13 @@ copilot-memory.json
 .env
 .env.local
 
+# SECURITY: Never commit Oracle Cloud URLs or credentials
+oracle-config.json
+oracle-urls.txt
+*oracle-url*
+*pre-authenticated*
+config-with-urls.json
+
 # Editor files
 .vscode/settings.json
 .idea/
