@@ -39,6 +39,10 @@ sync_to_drive.py
 memory-watcher.service
 oracle_commands.sh
 
+# Local utilities and monitoring scripts
+scripts/monitor_repo.sh
+analytics_log.txt
+
 # Editor files
 .vscode/settings.json
 .idea/
